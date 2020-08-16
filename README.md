@@ -10,7 +10,9 @@ In order to run the project, you must have installed Python on your PC. After do
 # Step1: 
 Extract/Unzip the file
 
-#Step2: 
+# Step2: 
 Go inside the project folder, then, double click the banking.py file and you are ready to go.
 
 This is a simple Console Based system, specially written for the beginners. This Simple Bank System in Python project with source code is free to download, Use for educational purposes only! For the project demo, have a look at the video below:
+
+[CLICK for DOWNLOAD](https://github.com/vkn84527/BANK-SYSTEM-IN-PYTHON)
