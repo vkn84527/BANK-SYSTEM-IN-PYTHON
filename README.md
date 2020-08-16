@@ -18,3 +18,4 @@ Go inside the project folder, then, double click the banking.py file and you are
 This is a simple Console Based system, specially written for the beginners. This Simple Bank System in Python project with source code is free to download, Use for educational purposes only! For the project demo, have a look at the video below:
 
 [CLICK for DOWNLOAD](https://github.com/vkn84527/BANK-SYSTEM-IN-PYTHON)
+![create-an-accout-1](https://user-images.githubusercontent.com/44707673/90328986-7e105000-dfbe-11ea-936f-ed169c6f1c6e.png)
